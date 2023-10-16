@@ -1,7 +1,6 @@
-# ecommerce
-- tools: Colab, Pyspark, excel
-- 역할: 인기제품 탐색, 리텐션분석 쿼리 작성, 시각화
-- 기여도: 40%
+# 🛍️ 뷰티 이커머스 리텐션 분석을 통한 구매 유도 마케팅 전략 수립
+- 분석환경 및 사용 툴: Colab, Pyspark, excel
+- 역할: 인기제품 탐색, 리텐션분석 쿼리 작성, 시각화 (기여도 40%)
 - 데이터 출처 : [Kaggle] [****eCommerce Events History in Cosmetics Shop****](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
 - 수집 기간 : 2019년 10월 ~ 2020년 2월 (5개월)
 - 구성 : 월별 총 5개의 테이블(2019-Oct, 2019-Nov, 2019-Dec, 2020-Jan, 2020-Feb)

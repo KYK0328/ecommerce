@@ -13,7 +13,6 @@
 1. 전체 고객의 구매 현황을 파악하여 마케팅 타깃을 선정합니다.
 2. 고객들의 구매 로그를 기준으로 구매 주기에 따른 리텐션 분석을 진행합니다.
   
-최종보고서 [[뷰티 이커머스 리텐션 분석을 통한 구매 유도.pdf](https://github.com/KYK0328/ecommerce/files/12911447/default.pdf)
+최종보고서 
+[[노션 보고서 링크](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]/[[뷰티 이커머스 리텐션 분석을 통한 구매 유도.pdf](https://github.com/KYK0328/ecommerce/files/12911447/default.pdf)
 ]
-
-[[노션 보고서 링크](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]

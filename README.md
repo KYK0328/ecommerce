@@ -15,12 +15,12 @@
 2. 고객들의 구매 로그를 기준으로 구매 주기에 따른 리텐션 분석을 진행합니다.
   
 ### 3. 보고서 
-<img width="725" alt="스크린샷 2024-04-02 오후 9 40 52" src="https://github.com/KYK0328/ecommerce/assets/128811238/f2bb62ff-eb54-4d09-98cd-c0ede391d81c">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 41 03" src="https://github.com/KYK0328/ecommerce/assets/128811238/468c17b7-6672-45e9-9824-64785b2e3b5c">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 41 20" src="https://github.com/KYK0328/ecommerce/assets/128811238/2f80c50c-10b0-46e9-97c3-2c0c6ce21032">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 41 27" src="https://github.com/KYK0328/ecommerce/assets/128811238/b0276bad-1553-48e6-aadd-8c3c835e8aa9">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 41 37" src="https://github.com/KYK0328/ecommerce/assets/128811238/4bf841d7-8ba2-414f-8dc3-1d6f86294ca2">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 43 02" src="https://github.com/KYK0328/ecommerce/assets/128811238/4c963c8c-2cbc-40e3-a96b-8a00a208a9ab">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 43 13" src="https://github.com/KYK0328/ecommerce/assets/128811238/b9b8c5ad-3ebb-4b8f-a2e6-22e43ee109fb">
-<img width="725" alt="스크린샷 2024-04-02 오후 9 43 21" src="https://github.com/KYK0328/ecommerce/assets/128811238/5f53b3f2-475f-408c-8ccb-767d51f994e2">
-![Uploading 스크린샷 2024-04-02 오후 9.43.30.png…]()
+<img width="725" alt="스크린샷 2024-04-02 오후 9 40 52" src="https://github.com/KYK0328/ecommerce/assets/128811238/ad0698b9-068c-4088-96fb-3ae9a40f0a9a">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 03" src="https://github.com/KYK0328/ecommerce/assets/128811238/a5ad1b43-d7f9-4de4-8ec6-6c02d76935d5">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 20" src="https://github.com/KYK0328/ecommerce/assets/128811238/136273b6-33cb-40da-92e7-11b7f6c73dff">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 27" src="https://github.com/KYK0328/ecommerce/assets/128811238/e123364f-e1a0-4ddd-993e-eb740e4bae1d">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 37" src="https://github.com/KYK0328/ecommerce/assets/128811238/ae59d0ce-ae13-4892-8c64-5fb56b9653d5">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 02" src="https://github.com/KYK0328/ecommerce/assets/128811238/b38d7c8d-5a7c-4bb5-b8b6-8897dd254feb">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 13" src="https://github.com/KYK0328/ecommerce/assets/128811238/d6d10605-e8ce-401c-8b83-369730befd15">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 21" src="https://github.com/KYK0328/ecommerce/assets/128811238/0b1cb345-4bca-437b-a9c6-6c879df1ab65">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 30" src="https://github.com/KYK0328/ecommerce/assets/128811238/3944a2b4-8aef-4a6d-9152-1fa520ccc6fd">

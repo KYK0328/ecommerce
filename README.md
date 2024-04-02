@@ -19,17 +19,20 @@
 - 리텐션분석 쿼리 작성
 - 리텐션 차트, 커브 시각화 
 
-**사용 툴**
+**배운점**
+- 하나의 서비스를 개선하기 위해 다양한 곳에서 분석이 이루어진다는 것을 알게 됨.
+- 비즈니스 상황이 주어지지 않았을 때 데이터에서 문제를 정의하는 방법을 배움.
+- 쿼리의 조건에 따라 결과 값이 달라지기 때문에 지표/단어 정의의 중요성을 깨달음.
+
+**사용 언어/툴**
 
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/apachespark-FA6423?style=for-the-badge&logo=apachespark&logoColor=white">의 Pyspark Query
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
+ 
   
-**최종보고서** 
-[[노션 보고서](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]
-
-  
-### 3. 보고서 
+### 보고서
+[[노션 링크](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]
 <img width="725" alt="스크린샷 2024-04-02 오후 9 40 52" src="https://github.com/KYK0328/ecommerce/assets/128811238/ad0698b9-068c-4088-96fb-3ae9a40f0a9a">
 <img width="725" alt="스크린샷 2024-04-02 오후 9 41 03" src="https://github.com/KYK0328/ecommerce/assets/128811238/a5ad1b43-d7f9-4de4-8ec6-6c02d76935d5">
 <img width="725" alt="스크린샷 2024-04-02 오후 9 41 20" src="https://github.com/KYK0328/ecommerce/assets/128811238/136273b6-33cb-40da-92e7-11b7f6c73dff">

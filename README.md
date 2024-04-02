@@ -1,15 +1,14 @@
 # 🛍️ 뷰티 이커머스 리텐션 분석을 통한 구매 유도 마케팅 전략 수립
-### 1. **분석 기획 의도**
+### **분석 기획 의도**
  N사는 네일 제품을 파는 코스메틱 온라인 쇼핑몰입니다. 2019년 10월 1일에 오픈하여 2020년 2월까지 5개월의 데이터를 수집했습니다. 서비스를 시작한 지 5개월이 지난 지금, 첫 구매 프로모션을 준비하고 기존 고객의 구매를 유도하기 위한 마케팅 전략을 수립하고자 합니다. 
 
-### 2. 분석 목적
+### 분석 목적
 
 1. 전체 고객의 구매 현황을 파악하여 마케팅 타깃을 선정함.
 2. 고객들의 구매 로그를 기준으로 구매 주기에 따른 리텐션 분석 진행함.
 
 
-**팀구성**
-- 데이터리안 SQL 실전반 16기 4인팀
+**팀구성**: 데이터리안 SQL 실전반 16기 4인팀
   
 **담당 역할** 기여도 35%
 - 인기제품 탐색
@@ -18,7 +17,8 @@
 
 **사용 툴**
 
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">:Pyspark Query
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/apachespark-FA6423?style=for-the-badge&logo=apachespark&logoColor=white">의 Pyspark Query
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
 

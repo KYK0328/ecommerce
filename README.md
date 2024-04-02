@@ -14,15 +14,14 @@
 
 **팀구성**: 데이터리안 SQL 실전반 16기 4인팀
   
-**담당 역할** 기여도 35%
-- 인기제품 탐색
+**담당 역할** `기여도: 35%`
+- 인기제품 탐색 쿼리 작성
 - 리텐션분석 쿼리 작성
 - 리텐션 차트, 커브 시각화 
 
 **사용 툴**
 
-<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-<img src="https://img.shields.io/badge/apachespark-FA6423?style=for-the-badge&logo=apachespark&logoColor=white">의 Pyspark Query
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/apachespark-FA6423?style=for-the-badge&logo=apachespark&logoColor=white">의 Pyspark Query
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
   

@@ -14,8 +14,8 @@
 2. 고객들의 구매 로그를 기준으로 구매 주기에 따른 리텐션 분석을 진행합니다.
   
 최종보고서 
-[[노션 보고서 링크](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]/[[뷰티 이커머스 리텐션 분석을 통한 구매 유도.pdf](https://github.com/KYK0328/ecommerce/files/12911447/default.pdf)
-]
+[[노션 보고서 링크](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]
+
 <img width="725" alt="스크린샷 2024-04-02 오후 9 40 52" src="https://github.com/KYK0328/ecommerce/assets/128811238/f2bb62ff-eb54-4d09-98cd-c0ede391d81c">
 <img width="725" alt="스크린샷 2024-04-02 오후 9 41 03" src="https://github.com/KYK0328/ecommerce/assets/128811238/468c17b7-6672-45e9-9824-64785b2e3b5c">
 <img width="725" alt="스크린샷 2024-04-02 오후 9 41 20" src="https://github.com/KYK0328/ecommerce/assets/128811238/2f80c50c-10b0-46e9-97c3-2c0c6ce21032">

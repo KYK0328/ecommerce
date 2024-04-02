@@ -16,3 +16,12 @@
 최종보고서 
 [[노션 보고서 링크](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]/[[뷰티 이커머스 리텐션 분석을 통한 구매 유도.pdf](https://github.com/KYK0328/ecommerce/files/12911447/default.pdf)
 ]
+<img width="725" alt="스크린샷 2024-04-02 오후 9 40 52" src="https://github.com/KYK0328/ecommerce/assets/128811238/f2bb62ff-eb54-4d09-98cd-c0ede391d81c">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 03" src="https://github.com/KYK0328/ecommerce/assets/128811238/468c17b7-6672-45e9-9824-64785b2e3b5c">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 20" src="https://github.com/KYK0328/ecommerce/assets/128811238/2f80c50c-10b0-46e9-97c3-2c0c6ce21032">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 27" src="https://github.com/KYK0328/ecommerce/assets/128811238/b0276bad-1553-48e6-aadd-8c3c835e8aa9">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 41 37" src="https://github.com/KYK0328/ecommerce/assets/128811238/4bf841d7-8ba2-414f-8dc3-1d6f86294ca2">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 02" src="https://github.com/KYK0328/ecommerce/assets/128811238/4c963c8c-2cbc-40e3-a96b-8a00a208a9ab">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 13" src="https://github.com/KYK0328/ecommerce/assets/128811238/b9b8c5ad-3ebb-4b8f-a2e6-22e43ee109fb">
+<img width="725" alt="스크린샷 2024-04-02 오후 9 43 21" src="https://github.com/KYK0328/ecommerce/assets/128811238/5f53b3f2-475f-408c-8ccb-767d51f994e2">
+![Uploading 스크린샷 2024-04-02 오후 9.43.30.png…]()

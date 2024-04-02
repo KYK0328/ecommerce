@@ -7,17 +7,17 @@
 1. 전체 고객의 구매 현황을 파악하여 마케팅 타깃을 선정함.
 2. 고객들의 구매 로그를 기준으로 구매 주기에 따른 리텐션 분석 진행함.
 
-**데이터 정보**
-- 출처: [Kaggle] [****eCommerce Events History in Cosmetics Shop****](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
-- 수집 기간 : 2019년 10월 ~ 2020년 2월 (5개월)
-- 구성 : 월별 총 5개의 테이블(2019-Oct, 2019-Nov, 2019-Dec, 2020-Jan, 2020-Feb)
-
 **팀구성**: 데이터리안 SQL 실전반 16기 4인팀
   
 **담당 역할** `기여도: 35%`
 - 인기제품 탐색 쿼리 작성
 - 리텐션분석 쿼리 작성
 - 리텐션 차트, 커브 시각화 
+
+**데이터 정보**
+- 출처: [Kaggle] [****eCommerce Events History in Cosmetics Shop****](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
+- 수집 기간 : 2019년 10월 ~ 2020년 2월 (5개월)
+- 구성 : 월별 총 5개의 테이블(2019-Oct, 2019-Nov, 2019-Dec, 2020-Jan, 2020-Feb), 약 2000만 건
 
 **배운점**
 - 하나의 서비스를 개선하기 위해 다양한 곳에서 분석이 이루어진다는 것을 알게 됨.

@@ -7,6 +7,10 @@
 1. 전체 고객의 구매 현황을 파악하여 마케팅 타깃을 선정함.
 2. 고객들의 구매 로그를 기준으로 구매 주기에 따른 리텐션 분석 진행함.
 
+**데이터 정보**
+- 출처: [Kaggle] [****eCommerce Events History in Cosmetics Shop****](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
+- 수집 기간 : 2019년 10월 ~ 2020년 2월 (5개월)
+- 구성 : 월별 총 5개의 테이블(2019-Oct, 2019-Nov, 2019-Dec, 2020-Jan, 2020-Feb)
 
 **팀구성**: 데이터리안 SQL 실전반 16기 4인팀
   
@@ -21,11 +25,6 @@
 <img src="https://img.shields.io/badge/apachespark-FA6423?style=for-the-badge&logo=apachespark&logoColor=white">의 Pyspark Query
 <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
-
-  **데이터 정보**
-  - 출처: [Kaggle] [****eCommerce Events History in Cosmetics Shop****](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
-  - 수집 기간 : 2019년 10월 ~ 2020년 2월 (5개월)
-  - 구성 : 월별 총 5개의 테이블(2019-Oct, 2019-Nov, 2019-Dec, 2020-Jan, 2020-Feb)
   
 **최종보고서** 
 [[노션 보고서](https://www.notion.so/s-Portfolio-a1cfb21801e94a638b1614be7ad89487?p=c73f7ac7ea83424f8c1d0693da143567&pm=s)]
